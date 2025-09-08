@@ -1,7 +1,14 @@
-# [Title]
-Text Parallax with Framer motion
+
+https://github.com/user-attachments/assets/3ac73992-d145-47d6-a284-28b4deac1839
+# Text Parallax
+Text Parallax animation with Framer motion
 
 ## Demo
+
+
+
+https://github.com/user-attachments/assets/7caf6ac7-ef9e-4e5e-9e97-ad53dbd3cc42
+
 
 
 ---
@@ -23,8 +30,8 @@ Text Parallax with Framer motion
 
 ## Run Locally
 ```
-git clone [add github repo]
-cd [folder]
+git clone https://github.com/tinaaiscoding/text-parallax.git
+cd text-parallax
 npm install
 npm run dev
 ```
