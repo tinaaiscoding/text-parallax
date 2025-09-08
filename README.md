@@ -1,8 +1,8 @@
 # [Title]
-[Add description]
+Text Parallax with Framer motion
 
 ## Demo
-[Add screenshots]
+
 
 ---
 
@@ -10,21 +10,15 @@
 - Next.js (React framework)  
 - TypeScript
 - CSS / Tailwind
-- 
+- Framer motion
 
 ---
 ## Features
-- 
+- Text parallax animation
 
 ---
 ## What I Learned
-- 
-
----
-
-## Challenges & Solutions
-- **Problem:** 
-  - **Solution:** 
+- How to use framer motion to quickly add a parallax animation
 
 
 ## Run Locally
@@ -36,4 +30,6 @@ npm run dev
 ```
 
 ## Credits / Acknowledgements
-- 
+- Thank you to Olivier Lacrose for the tutorial!
+  - [Text Parallax tutorial](https://blog.olivierlarose.com/tutorials/text-parallax)
+  - [Original live demo](https://blog.olivierlarose.com/demos/text-parallax)
