@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/3ac73992-d145-47d6-a284-28b4deac1839
 # Text Parallax
 Text Parallax animation with Framer motion
 
